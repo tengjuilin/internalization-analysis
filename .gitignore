@@ -8,3 +8,7 @@ __pycache__
 
 # temporary excel file
 ~$*
+
+# data files
+/img_data/
+/archived_analysis/
