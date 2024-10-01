@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Python cache
+.ipynb_checkpoints
+.idea
+__pycache__
+
+# temporary excel file
+~$*
