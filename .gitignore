@@ -12,3 +12,4 @@ __pycache__
 # data files
 /img_data/
 /archived_analysis/
+/processed_img/
