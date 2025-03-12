@@ -5,6 +5,7 @@
 .ipynb_checkpoints
 .idea
 __pycache__
+.jupyter
 
 # temporary excel file
 ~$*
